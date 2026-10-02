@@ -1,1 +1,6 @@
-# lecturer
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
